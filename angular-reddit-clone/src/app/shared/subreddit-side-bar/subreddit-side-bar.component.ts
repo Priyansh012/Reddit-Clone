@@ -25,5 +25,8 @@ export class SubredditSideBarComponent implements OnInit {
   ngOnInit(): void {
 
   }
-
+  
+  goToSubreddit(id: number): void {
+    this.router.navigateByUrl('/view-subreddit/' + id);
+  }
 }

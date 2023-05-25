@@ -12,6 +12,7 @@ import { AuthGuard } from './auth/auth.guard';
 
 const routes: Routes = [
   { path: '', component: HomeComponent },
+  { path: 'view-subreddit/:id', component: ViewSubredditComponent},
   { path: 'view-post/:id', component: ViewPostComponent },
   { path: 'user-profile/:name', component: UserProfileComponent, canActivate: [AuthGuard] },
   { path: 'list-subreddits', component: ListSubredditsComponent },
