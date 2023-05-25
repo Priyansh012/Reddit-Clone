@@ -6,48 +6,48 @@ Reddit clone built using Spring Boot, Spring Security with JPA Authentication, S
 
 ### FrontPage
 
-![](screenshots/frontpage.PNG)
+![](screenshots/frontpage.png)
 
 ### EER Diagram
 
-![](screenshots/EER_Diagram.PNG)
+![](screenshots/EER_Diagram.png)
 
 ### Registration 
 
-![](screenshots/register.PNG)
+![](screenshots/register.png)
 
 ### Account Activation
 
-![](screenshots/mail_activation.PNG)
+![](screenshots/mail_activation.png)
 
 ### User Login
 
-![](screenshots/login.PNG)
+![](screenshots/login.png)
 
 ### Create Subreddit
 
-![](screenshots/create_subreddit.PNG)
+![](screenshots/create_subreddit.png)
 
 ### List Subreddit
 
-![](screenshots/list_subreddit.PNG)
+![](screenshots/list_subreddit.png)
 
 ### Create Post
 
-![](screenshots/create_posts.PNG)
+![](screenshots/create_posts.png)
 
 ### JWT Auth Token
 
-![](screenshots/jwt_auth_token.PNG)
+![](screenshots/jwt_auth_token.png)
 
 ### View Post
 
-![](screenshots/view_post.PNG)
+![](screenshots/view_post.png)
 
 ### View User Profile
 
-![](screenshots/view-user.PNG)
+![](screenshots/view-user.png)
 
 ### View Subreddit
 
-![](screenshots/view-subreddit.PNG)
+![](screenshots/view-subreddit.png)
